@@ -2,7 +2,7 @@ import spacy
 nlp = spacy.load("en_core_web_sm")
 
 text = """
-tell you that very senior CEOs at major American car companies shook my hand
+I tell you that very senior CEOs at major American car companies shook my hand
 and quickly turned away.
 """
 
